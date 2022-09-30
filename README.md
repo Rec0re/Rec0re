@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Rec0re
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
 - 📫 You can reach me on Discord: Recore#3277
 
 <!---
