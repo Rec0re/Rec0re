@@ -1,4 +1,4 @@
-- 📫 You can reach me on Discord: Recore#3277
+- 📫 You can reach me on Discord: recore
 
 <!---
 Rec0re/Rec0re is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
